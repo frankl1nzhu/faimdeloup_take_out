@@ -53,7 +53,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
    ![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-login.png)
    
 
-#### Employés
+### Employés
 
 ​	Chaque employé a un nom, une poste, un tel et un état.
 
@@ -71,7 +71,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
 
 
-####  Catégories
+###  Catégories
 
 ​	Chaque catégorie a un nom, un type, un temps de renouvellement et un ordre
 
@@ -79,7 +79,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
 
 
-#### Plats
+### Plats
 
 ​	Chaque plat a un nom, une image, une catégorie, un prix, un état et une heure de la dernière opération
 
@@ -89,7 +89,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
 ​	Ces plats sont inspirés du menu d'un restaurant près de chez moi. (Hippopotamus)
 
-#### Menus
+### Menus
 
 ​	Chaque menu a un nom, une image, une catégorie, un prix, un état et une heure de la dernière oprération
 
@@ -107,7 +107,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
    ![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-ajouterDesPlats.png)
 
-#### Ordres
+### Ordres
 
 ​	Chaque ordre a un numéro, un statut, un nom de client, un tel, une adresse, un temps de commande et un montant reçu
 
@@ -117,7 +117,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
    ![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-chercherCommande.png)
 
-#### Déconnecter
+### Déconnecter
 
 Quand vous avez fini les actions, vous pouvez vous déconnecter en cliquant sur le petit symbole en haut à droite de l'écran
 
