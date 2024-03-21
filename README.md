@@ -50,8 +50,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
 4. Entrez username: admin et password: 123456 pour se connecter.
 
-   <img src="C:\Users\zhuyz\AppData\Roaming\Typora\typora-user-images\image-20240321161900240.png" alt="image-20240321161900240" style="zoom: 55%;" />
-   
+   ![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-login.png)
    
 
 #### Employés
