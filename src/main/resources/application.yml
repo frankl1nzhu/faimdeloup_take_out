@@ -19,4 +19,4 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 takeout:
-  path: C:\Users\zhuyz\Desktop\gitRepo\faimdeloup_take_out\src\main\resources\dishImages\
+  path: C:\Users\zhuyz\Desktop\Projet\faimdeloup_take_out\src\main\resources\dishImages\
