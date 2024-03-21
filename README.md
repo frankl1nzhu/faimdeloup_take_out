@@ -38,7 +38,7 @@ Faimdeloup_take_out (FDL) est un projet conçu spécifiquement pour les commande
 
 La base de données se trouve dans **src/main/resources/MySQLData**.
 
-<img src="C:\Users\zhuyz\AppData\Roaming\Typora\typora-user-images\image-20240321160058269.png" alt="image-20240321160058269" style="zoom: 80%;" />
+![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-database.png)
 
 ### Détails
 
