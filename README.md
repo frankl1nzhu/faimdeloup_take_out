@@ -40,7 +40,7 @@ La base de données se trouve dans **src/main/resources/MySQLData**.
 
 ![image](https://github.com/frankl1nzhu/faimdeloup_take_out/blob/main/src/main/resources/githubImages/image-database.png)
 
-### Détails
+### Pour démarrer
 
 1. Téléchargez tout le projet, ouvrez-le avec IntelliJ IDEA et et attendez que toutes les dépendances de Maven soient importées.
 
